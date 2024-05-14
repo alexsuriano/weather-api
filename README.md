@@ -43,3 +43,7 @@ docker compose up
 ```
 curl 'http://localhost:8080/temp?cep=18682060'
 ```
+## CloudRun
+```
+https://weather-api-4pj5m42fqq-uc.a.run.app/temp?cep=12215000
+```
